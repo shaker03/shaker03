@@ -177,8 +177,5 @@
     <img src="https://img.shields.io/badge/Email-mohammed.ash0101@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="tel:+201090621336">
-    <img src="https://img.shields.io/badge/Phone-+20%201090621336-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  </a>
 </div>
 
